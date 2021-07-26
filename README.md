@@ -7,7 +7,7 @@ I am a computer engineering student, looking for opportunities to study and keep
 - 🔭 Working as a developer at [DTI](https://dtidigital.com.br);
 
 ## Previous works
-- 👩‍💻 Responsible for the marketing and website at [Fórmula Cefast](formulacefast.com);
+- 👩‍💻 Responsible for the marketing and website at [Fórmula Cefast](https://formulacefast.com);
 - 📚 Responsible for promoting events aimed at the female audience of technology courses for the project [Elas.Net](https://www.instagram.com/elasnetcefetmg/);
 
 ## Currently Learning
