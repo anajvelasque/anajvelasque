@@ -1,4 +1,5 @@
 # Hi there 👋
+[<img src="{https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white}" />](https://www.linkedin.com/in/ana-julia-velasque-rodrigues-a10710175/)
 I am a computer engineering student, looking for opportunities to study and keep learning.
 
 ## Current works
