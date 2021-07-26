@@ -13,7 +13,7 @@ I am a computer engineering student, looking for opportunities to study and keep
 ## Currently Learning
 <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" /> <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" /> <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/>
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anajvelasque&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anajvelasque&show_icons=true&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **anajvelasque/anajvelasque** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
