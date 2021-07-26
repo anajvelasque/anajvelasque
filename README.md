@@ -4,7 +4,7 @@ I am a computer engineering student, looking for opportunities to study and keep
 [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/ana-julia-velasque-rodrigues-a10710175/)
 ## Current works
 - 💻 Graduating in computer engineering at [Cefet-MG](https://cefetmg.br);
-- 🔭 Working as a developer at [DTI](dtidigital.com.br);
+- 🔭 Working as a developer at [DTI](https://dtidigital.com.br);
 
 ## Previous works
 - 👩‍💻 Responsible for the marketing and website at [Fórmula Cefast](formulacefast.com);
