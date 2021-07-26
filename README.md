@@ -1,5 +1,4 @@
 # Hi there 👋
-
 I am a computer engineering student, looking for opportunities to study and keep learning.
 
 ## Current works
@@ -10,6 +9,8 @@ I am a computer engineering student, looking for opportunities to study and keep
 - Responsible for the marketing and website at [Fórmula Cefast](formulacefast.com);
 - Responsible for promoting events aimed at the female audience of technology courses for the project [Elas.Net](https://www.instagram.com/elasnetcefetmg/);
 
+## Currently Learning
+![image]({https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white}) ![image]({https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white}) ![image]({https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E})
 <!--
 **anajvelasque/anajvelasque** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
