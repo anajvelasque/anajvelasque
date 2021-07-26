@@ -1,7 +1,7 @@
 # Hi there 👋
 I am a computer engineering student, looking for opportunities to study and keep learning.
 
-[<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/ana-julia-velasque-rodrigues-a10710175/)
+[<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/anajvelasque)
 ## Current works
 - 💻 Graduating in computer engineering at [Cefet-MG](https://cefetmg.br);
 - 🔭 Working as a developer at [DTI](https://dtidigital.com.br);
