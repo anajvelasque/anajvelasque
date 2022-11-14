@@ -11,7 +11,7 @@ I am a computer engineering student, looking for opportunities to study and keep
 - 📚 Responsible for promoting events aimed at the female audience of technology courses for the project [Elas.Net](https://www.instagram.com/elasnetcefetmg/);
 
 ## Currently Learning
-[<img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" />](https://angular.io/) [<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />](https://html.spec.whatwg.org/multipage/) [<img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/>](https://www.javascript.com/)
+[<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />](https://pt-br.reactjs.org/) [<img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" />](https://dotnet.microsoft.com/en-us/) [<img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"/>](https://www.typescriptlang.org/)
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anajvelasque&layout=compact&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
