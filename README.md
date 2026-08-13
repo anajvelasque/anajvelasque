@@ -34,7 +34,6 @@ Currently, I'm focusing on Java and backend development, while building personal
 [<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />](https://developer.mozilla.org/en-US/docs/Web/CSS)
 [<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />](https://git-scm.com/)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anajvelasque&layout=compact&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **anajvelasque/anajvelasque** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -49,13 +48,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-# Hi there 👋
-
-I'm a Computer Engineer passionate about software development and always looking for opportunities to learn, build, and solve problems through technology.
-
-Currently, I'm focusing on **Java and backend development**, while building personal projects to strengthen my skills and explore new technologies.
-
-[<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/anajvelasque)
 
 
 ## 📊 GitHub Stats
