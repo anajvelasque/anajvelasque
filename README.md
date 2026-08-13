@@ -1,18 +1,38 @@
 # Hi there 👋
-I am a computer engineering student, looking for opportunities to study and keep learning.
+I'm a Computer Engineer passionate about software development and always looking for opportunities to learn, build, and solve problems through technology.
+
+Currently, I'm focusing on Java and backend development, while building personal projects to strengthen my skills and explore new technologies.
 
 [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/anajvelasque)
-## Current works
-- 💻 Graduating in computer engineering at [Cefet-MG](https://cefetmg.br);
-- 🔭 Working as a developer at [DTI](https://dtidigital.com.br);
+## 🚀 Currently
 
-## Previous works
-- 👩‍💻 Responsible for the marketing and website at [Fórmula Cefast](https://formulacefast.com);
-- 📚 Responsible for promoting events aimed at the female audience of technology courses for the project [Elas.Net](https://www.instagram.com/elasnetcefetmg/);
+* ☕ Studying **Java and backend development**
+* 💻 Building personal projects to improve my software development skills
+* 🔎 Open to new opportunities in software development
+
+## 💼 Previous Experience
+
+* 👩‍💻 Worked as a **Developer at [DTI](https://dtidigital.com.br)**
+* 🏎️ Responsible for marketing and website development at [Fórmula Cefast](https://formulacefast.com)
+* 📚 Responsible for promoting events aimed at women in technology courses through the [Elas.Net](https://www.instagram.com/elasnetcefetmg/) project
+
+## 🎓 Education
+
+* 🎓 **Computer Engineering — CEFET-MG**
 
 ## Currently Learning
-[<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />](https://pt-br.reactjs.org/) [<img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" />](https://dotnet.microsoft.com/en-us/) [<img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"/>](https://www.typescriptlang.org/)
+[<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />](https://www.java.com/)
+[<img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" />](https://spring.io/projects/spring-boot)
+[<img src="https://img.shields.io/badge/REST%20API-005571?style=for-the-badge&logo=fastapi&logoColor=white" />](https://restfulapi.net/)
 
+## 💻 Technologies
+
+[<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />](https://www.java.com/)
+[<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+[<img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />](https://www.typescriptlang.org/)
+[<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />](https://developer.mozilla.org/en-US/docs/Web/HTML)
+[<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />](https://developer.mozilla.org/en-US/docs/Web/CSS)
+[<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />](https://git-scm.com/)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anajvelasque&layout=compact&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
 <!--
@@ -28,4 +48,20 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+-->
+# Hi there 👋
+
+I'm a Computer Engineer passionate about software development and always looking for opportunities to learn, build, and solve problems through technology.
+
+Currently, I'm focusing on **Java and backend development**, while building personal projects to strengthen my skills and explore new technologies.
+
+[<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/anajvelasque)
+
+
+## 📊 GitHub Stats
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anajvelasque\&layout=compact\&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
+
+<!--
+**anajvelasque/anajvelasque** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
